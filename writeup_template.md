@@ -371,7 +371,7 @@ I think I could go over this project for another week and keep on learning. I th
 
 Here are five German traffic signs that I found on the web:
 
-![png](Ger1-copy1.png) ![png](ger2-copy1.png) ![png](ger3-copy1.png) 
+![png](Ger1-Copy1.png) ![png](ger2-copy1.png) ![png](ger3-copy1.png) 
 ![png](ger4-copy1.png) ![png](ger5-copy1.png)![png](ger6-copy1.png)
 
 ```python
