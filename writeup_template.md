@@ -36,7 +36,7 @@ The goals / steps of this project are the following:
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/vrajp29/CarND-Traffic-Sign-Classifier-Project-master/blob/master/Traffic_Sign_Classifier.ipynb)
 
 
 
@@ -371,8 +371,8 @@ I think I could go over this project for another week and keep on learning. I th
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][Ger1-copy1.png] ![alt text][ger2-copy1.png] ![alt text][ger3-copy1.png] 
-![alt text][ger4-copy1.png] ![alt text][ger5-copy1.png]![alt text][ger6-copy1.png]
+![png][Ger1-copy1.png] ![png][ger2-copy1.png] ![png][ger3-copy1.png] 
+![png][ger4-copy1.png] ![png][ger5-copy1.png]![png][ger6-copy1.png]
 
 ```python
 ### Load the images and plot them here.
