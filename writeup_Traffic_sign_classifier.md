@@ -280,7 +280,7 @@ def evaluate(X_data, y_data):
 | Layer         		|     Description	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | Input         		| 32x32x1 RGB image   							| 
-| Convolution 3x3     	| 2x2 stride, valid padding, outputs 28x28x4 	|
+| Convolution 3x3     	| 2x2 stride, valid padding, outputs 28x28x6 	|
 | RELU					|												|
 | Max pooling	      	| 2x2 stride,  outputs 14x14x64 				|
 | Convolution 5x5	    | 2x2 stride, valid padding output 10x10x6 	|
